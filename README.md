@@ -41,7 +41,7 @@ The objective of this project is to analyze e-commerce sales data and create an 
 
 ## Dashboard Preview
 
-![E-Commerce Sales Dashboard](Screenshot%202026-07-19%20195148.png)
+![E-Commerce Sales Dashboard](Screenshot%202026-07-22%20120444.png)
 
 ## Key Insights
 
